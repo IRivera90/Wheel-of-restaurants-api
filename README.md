@@ -1,4 +1,4 @@
-# I Dunno Cafe
+# I Dunno Cafe: The 'dinner spinner'
 
 Have you ever tried deciding where to eat with your significant other? Of course you have. Everyone has. This application was inspired by the daunting task of trying to pick a place of where to eat, because we all know, relationships are just two people trying to decide where to eat until one of them dies.
 
